@@ -1,0 +1,97 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = PNA_DayLap_On
+build_property.RootNamespace = PNA_DayLap_On
+build_property.ProjectDir = D:\Web\PNA_DayLap_On\PNA_DayLap_On\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\Web\PNA_DayLap_On\PNA_DayLap_On
+build_property._RazorSourceGeneratorDebug = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_LoaiSanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX0xvYWlTYW5QaGFtXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_LoaiSanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX0xvYWlTYW5QaGFtXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_LoaiSanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX0xvYWlTYW5QaGFtXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_LoaiSanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX0xvYWlTYW5QaGFtXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_LoaiSanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX0xvYWlTYW5QaGFtXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_SanPham/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX1NhblBoYW1cQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_SanPham/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX1NhblBoYW1cRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_SanPham/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX1NhblBoYW1cRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_SanPham/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX1NhblBoYW1cRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/pna_SanPham/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NccG5hX1NhblBoYW1cSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Web/PNA_DayLap_On/PNA_DayLap_On/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-ubc5ryjocw
